@@ -1,4 +1,4 @@
-## Desenvolvedor Full-Stack Junior.
+## Desenvolvedor Full-Stack Junior
 
 Como um entusiasta em Java e tecnologias Back-End no geral, eu desenvolvo projetos de software a fim de solucionar problemas e automatizar operações.
 
